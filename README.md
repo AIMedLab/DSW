@@ -1,7 +1,7 @@
 # DSW
 
 # Introduction
-This repository contains source code for paper ["Estimating Individual Treatment Effects with Time-Varying Confounders"](). 
+This repository contains source code for paper ["Estimating Individual Treatment Effects with Time-Varying Confounders"](https://arxiv.org/pdf/2008.13620.pdf). 
 
 In this paper, we study the problem of Estimating individual treatment effects with time-varying confounders (as illustrated by a causal graph in the figure below)
 
